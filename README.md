@@ -42,7 +42,7 @@ Business Intelligence Reporting
 
 📷 Dashboard Preview
 
-Example: ![Dashboard Preview](https://raw.githubusercontent.com/Himanshurawat450/Mobile-Sales-Dashboard/main/image.png)
+Example: ![Dashboard Preview](https://github.com/Himanshurawat450/Library-sales-dashboard/blob/main/image.png)
 👨‍💻 Author
 
 Himanshu Rawat
