@@ -42,7 +42,7 @@ Business Intelligence Reporting
 
 📷 Dashboard Preview
 
-(image.png)![Dashboard](image.png)
+![Dashboard](image.png)
 👨‍💻 Author
 
 Himanshu Rawat
